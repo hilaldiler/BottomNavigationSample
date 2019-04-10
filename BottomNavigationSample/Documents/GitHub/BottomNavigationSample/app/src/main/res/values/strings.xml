@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationSample</string>
+    <string name="login">Giris</string>
+    <string name="home">Home</string>
+    <string name="weight_to_height_ratio">Weight to Height Ratio</string>
+    <string name="calories">Calories</string>
+
+
+</resources>
